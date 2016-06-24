@@ -6,26 +6,26 @@
 div
 {
 
-  display: inline-table;
-  margin-left: 5%;
-  width: 300px;
+  display: inline-table; /* Aligne le tableau */
+  margin-left: 5%; /* separe les tableau par la gauche */
+  width: 100px; /* la taille des bordure */
 }
 
 table
 {
-  border-collapse: collapse;
-  width: 300px;
-  border-bottom: 5px rgb(250, 21, 131) solid;
-  height: 250;
+  border-collapse: collapse; /* Fusionne les cellule */
+  width: 300px; /* Augmente la taille */
+  border-bottom: 5px rgb(250, 21, 131) solid; /* Ajoute une bordure en bas des tableau */
+  height: 250; /* regle la hauteur des tableau */
 }
 
 h3
 {
   border: 2px rgb(250, 21, 131) solid;
-  margin: 0;
-  margin-top: 50px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  margin: 0; /* supprime la marge */
+  margin-top: 50px; /* separe le titre et les tableau */
+  border-top-left-radius: 10px; /* arrondie le bord de la bordure a gauche */
+  border-top-right-radius: 10px; /* arrondie le bord de la bordure a droite */
   background-color: rgb(250, 21, 131);
 }
 
