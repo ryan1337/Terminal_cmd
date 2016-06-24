@@ -59,7 +59,7 @@ h2
 
     body
     {
-      margin: 0;
+      margin-left: 10px;
     }
 
     img
@@ -69,6 +69,6 @@ h2
 
     h3
     {
-      width: 295px;
+      width: 296px;
     }
 }
