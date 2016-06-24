@@ -49,3 +49,26 @@ h2
   font-family: cursive;
   text-shadow: 4px 3px grey;
 }
+
+@media all and (max-width: 1024px)
+{
+    div
+    {
+      display: block;
+    }
+
+    body
+    {
+      margin: 0;
+    }
+
+    img
+    {
+      display: none;
+    }
+
+    h3
+    {
+      width: 295px;
+    }
+}
