@@ -1,0 +1,17 @@
+.gris
+{
+  background-color: grey;
+}
+
+div
+{
+  display: inline-table;
+}
+
+h3
+{
+  border: 2px peru solid;
+  border-radius: 10px / 20px;
+  background-color: peru;
+  width: 30%;
+}
