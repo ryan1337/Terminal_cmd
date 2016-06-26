@@ -47,7 +47,7 @@ h2
 {
   text-align: center;
   font-family: cursive;
-  text-shadow: 4px 3px grey;
+  text-decoration: underline rgb(250, 21, 131);
 }
 
 @media all and (max-width: 1024px)
@@ -60,7 +60,7 @@ h2
     body
     {
       margin-left: 10px;
-      
+
     }
 
     img
